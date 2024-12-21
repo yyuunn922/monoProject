@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*@font-face {*/
+/*    font-family: 'PretendardBold';*/
+/*    src: url('./fonts/PretendardBold.ttf') format('truetype');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'PretendardLight';*/
+/*    src: url('./fonts/PretendardLight.ttf') format('truetype');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'PretendardMedium';*/
+/*    src: url('./fonts/PretendardMedium.ttf') format('truetype');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'PretendardRegular';*/
+/*    src: url('./fonts/PretendardRegular.ttf') format('truetype');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'PretendardSemiBold';*/
+/*    src: url('./fonts/PretendardSemiBold.ttf') format('truetype');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'RobotoBold';*/
+/*    src: url('./fonts/RobotoBold.ttf') format('truetype');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'RobotoLight';*/
+/*    src: url('./fonts/RobotoLight.ttf') format('truetype');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'RobotoMedium';*/
+/*    src: url('./fonts/RobotoMedium.ttf') format('truetype');*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: 'RobotoRegular';*/
+/*    src: url('./fonts/RobotoRegular.ttf') format('truetype');*/
+/*}*/
