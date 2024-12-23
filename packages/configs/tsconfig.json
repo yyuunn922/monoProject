@@ -7,11 +7,12 @@
     "typeRoots": [
       "./",
       "../../node_modules/@types",
-      "@types"
+      "@types",
+      "./global.d.ts"
     ]
   },
   "include": [
-    "global.d.ts",
+    "./global.d.ts",
     "**/*.ts",
     "**/*.tsx"
   ]

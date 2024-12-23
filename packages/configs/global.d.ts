@@ -7,11 +7,10 @@ declare module "*.svg" {
     export default content;
 }
 
-
-declare global {
-    interface Window {
-        ReactNativeWebView?: {
-            postMessage(data: string): void;
-        };
-    }
+declare const webkit: Webkit;
+interface Window {
+    webkit: Webkit;
+    ReactNativeWebView: {
+        postMessage(msg: string): void;
+    };
 }
